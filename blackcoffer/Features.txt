@@ -1,0 +1,8 @@
+1. IP
+2. Time of Day 
+3. Page Accessed
+4. Source Page
+5. Browser used
+6. Day of Week
+
+	 PREDICT POINT 3
