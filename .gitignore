@@ -6,9 +6,9 @@ __pycache__/
 # C extensions
 *.so
 blackcoffer/bin/
-*
-
-
+blackcoffer/man/
+blackcoffer/share/
+blackcoffer/etc/
 # Distribution / packaging
 .Python
 build/
